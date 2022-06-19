@@ -1,0 +1,10 @@
+[
+  {
+    "package": "postGIStools",
+    "oncran": true
+  },
+  {
+    "package": "rslurm",
+    "oncran": true
+  }
+]

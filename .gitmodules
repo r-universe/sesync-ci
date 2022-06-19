@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "postGIStools"]
+	path = postGIStools
+	url = https://github.com/sesync-ci/postgistools
+	shallow = true
+	registered = true
+[submodule "rslurm"]
+	path = rslurm
+	url = https://github.com/sesync-ci/rslurm
+	shallow = true
+	registered = true
